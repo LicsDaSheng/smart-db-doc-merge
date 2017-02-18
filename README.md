@@ -1,0 +1,1 @@
+# smart-db-doc-merge
